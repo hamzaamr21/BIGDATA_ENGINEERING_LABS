@@ -1,0 +1,28 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Dossiers de travail locaux
+TP1/
+TP2/
+TP3/
+Compte_Rendu/
