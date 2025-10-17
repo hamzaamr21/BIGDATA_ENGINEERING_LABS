@@ -9,8 +9,7 @@ BIGDATA_ENGINEERING_LABS/
 ├── hadoop_project/          # Projet Hadoop
 │   ├── hadoop_labs/        # Labs Hadoop
 │   └── External Libraries/ # Bibliothèques externes
-├── spark_project/          # Projet Spark (à venir)
-├── kafka_project/          # Projet Kafka (à venir)
+├── kafka_project/          # Projet Kafka
 └── README.md
 ```
 
@@ -22,8 +21,6 @@ Travaux pratiques sur l'écosystème Hadoop incluant :
 - MapReduce
 - YARN
 
-### 2. Spark Project (À venir)
-Projets utilisant Apache Spark pour le traitement de données distribuées.
 
 ### 3. Kafka Project (À venir)
 Projets de streaming de données avec Apache Kafka.
@@ -33,7 +30,6 @@ Projets de streaming de données avec Apache Kafka.
 - **Hadoop** - Framework de traitement distribué
 - **Java** - Langage principal
 - **Maven** - Gestion des dépendances
-- **Apache Spark** - Traitement de données
 - **Apache Kafka** - Streaming de données
 
 ## Prérequis
