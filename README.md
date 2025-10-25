@@ -34,6 +34,8 @@ BIGDATA_ENGINEERING_LABS/
 
 - **Hadoop Project** : `hadoop_project/Compte Rendu/`
 - **Kafka Project** : `kafka_project/Compte Rendu/`
+- **mongoDB Project** : `mongoDB_project/Compte Rendu/`
+
 
 ## Projets
 
@@ -64,6 +66,7 @@ Projets de streaming de données avec Apache Kafka :
 - **Maven** - Gestion des dépendances
 - **Docker** - Conteneurisation
 - **Zookeeper** - Coordination distribuée
+- **mongoDB**
 
 ##  Prérequis
 
@@ -73,6 +76,7 @@ Projets de streaming de données avec Apache Kafka :
 - Maven 3.x
 - Docker et Docker Compose
 - IntelliJ IDEA / VSCode ou Eclipse
+- mongoDB
 
 ##  Installation
 
@@ -86,11 +90,14 @@ cd BIGDATA_ENGINEERING_LABS
 ```bash
 # Pour Hadoop
 cd hadoop_project/Compte\ Rendu/
-# Ouvrir le fichier PDF/LaTeX
+# Ouvrir le fichier PDF
 
 # Pour Kafka
 cd kafka_project/Compte\ Rendu/
-# Ouvrir le fichier PDF/LaTeX
+# Ouvrir le fichier PDF
+# Pour Kafka
+cd mongoDB_project/Compte\ Rendu/
+# Ouvrir le fichier PDF
 ```
 
 ##  Utilisation
