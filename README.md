@@ -13,6 +13,10 @@ BIGDATA_ENGINEERING_LABS/
 │   ├── Compte Rendu/        #  Documentation détaillée du projet
 │   ├── kafka_labs/          # Labs Kafka
 │   └── External Libraries/  # Bibliothèques externes
+├── mongoDB_project/         # Projet mongoDB
+│   ├── Compte Rendu/        # Documentation détaillée du projet
+│   ├── data/               
+│   └── MapReduce.ipynb      
 └── README.md
 ```
 
